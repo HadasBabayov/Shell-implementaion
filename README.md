@@ -17,4 +17,4 @@ First, compile ex1.c file by this command:
   ./a.out
   ```
   
-  You can enter SHELL commands and see how it works
+  You can enter SHELL commands and see how it works.
